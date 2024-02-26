@@ -56,7 +56,7 @@ const Destination = () => {
             <DestinationData
             className="first-des"
             heading="Evening Bible Study @5pm"
-            text="Good evening! I wanted to let you know about our evening Bible study, led by none other than Pastor Rob himself. It's a fantastic opportunity for adults of all ages to come together, delve deeper into the teachings of the Bible, and engage in meaningful discussions about how to apply those teachings to our everyday lives. Pastor Rob brings a wealth of knowledge and insight to the study, and his leadership ensures that each session is both enlightening and enriching. Whether you're a seasoned Bible scholar or just beginning your spiritual journey, you're sure to find inspiration and fellowship in our evening Bible study with Pastor Rob. We'd love to have you join us!"
+            text="Evening Bible study is a fantastic opportunity for adults of all ages to come together, delve deeper into the teachings of the Bible, and engage in meaningful discussions about how to apply those teachings to our everyday lives.  Pastor Rob brings a wealth of knowledge and insight to the study, and his leadership ensures that each session is both enlightening and enriching.  Whether you're a seasoned Bible scholar or just beginning your spiritual journey, you're sure to find inspiration and fellowship.  We'd love to have you join us!"
             img1={SundayImg3}
             />
         </div>
