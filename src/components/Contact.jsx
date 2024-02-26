@@ -7,7 +7,7 @@ function ContactUs () {
             <div className="mission-text">
             <h1>Contact Information</h1>
             <h2>Church</h2>
-            <p><b>Phone:</b><br></br> (573) 674-3141 <br></br><b>E-mail:</b> fbc_licking@mail.com<br></br><b>Address:</b><br></br> 223 South Main Street PO Box 216 Licking, MO 65542</p>
+            <p><b>Phone:</b><br></br> (573) 674-3141 <br></br><b>E-mail:</b><br></br> fbc_licking@mail.com<br></br><b>Address:</b><br></br> 223 South Main Street PO Box 216 Licking, MO 65542</p>
             
             <h2>Pastor Rob Lilly</h2>
             <p><b>Phone:</b><br></br> (573) 889-8556 </p>
