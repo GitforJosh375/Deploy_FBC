@@ -1,0 +1,41 @@
+.about1-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1.25rem;
+    margin: 4rem 6rem;
+    text-align: center;
+    
+}
+
+.about1-container h1{
+    padding-bottom: 1rem;
+}
+
+.about1-container p{
+    padding-bottom: 2rem;
+}
+
+.mission-img {
+    position: static;
+    
+    
+}
+
+
+
+@media screen and (max-width: 1350px){
+    .about1-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 1.25rem;
+        margin: 4rem 6rem;
+        text-align: start;
+    }
+    
+    #myIframe{
+        display: none;
+    }
+}
