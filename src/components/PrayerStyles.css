@@ -47,11 +47,25 @@
 
 @media screen and (max-width: 850px) {
     .form-container{
-        margin: 4rem 2rem;
+        margin: 0rem 0rem;
     }
 
     .from-container form{
         padding-top: 2rem;
         width: 90%;
+    }
+
+    .form-container button{
+        display: block;
+        font-style: center;
+        margin-bottom: 20px;
+        padding: 0;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    
+    .form-container button:hover{
+        background-color: #151515;
+        color: #fff;
     }
 }

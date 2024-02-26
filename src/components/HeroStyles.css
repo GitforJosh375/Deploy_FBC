@@ -135,6 +135,7 @@ img{
 
 @media screen and (max-width: 555px){
     .hero-text h1{
+        font-size: 2rem;
         padding: 10px 20px;
     }
 
@@ -147,5 +148,9 @@ img{
         padding: 0.6rem 1.1rem;
         border-radius: 6px;
         font-size: 1rem;
+    }
+    .hero-text1 h1{
+        font-size: 3rem;
+        
     }
 }

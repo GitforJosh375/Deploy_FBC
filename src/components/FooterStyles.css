@@ -23,3 +23,15 @@
     color: rgb(198, 196, 196);
     
 }
+
+@media screen and (max-width: 555px){
+
+    .footer{
+    
+        padding: 1rem 0.5rem;
+        background: black;
+        color: white;
+    }
+
+
+}
