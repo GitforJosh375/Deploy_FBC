@@ -66,7 +66,7 @@ function AboutUs () {
             </ul>
             </div>
             <div className="mission-img">
-            <img alt="img" src={ChurchLetter}/>
+            <img className="pic" alt="img" src={ChurchLetter}/>
             </div>
             
         </div>
