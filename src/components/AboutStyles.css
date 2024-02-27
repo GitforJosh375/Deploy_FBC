@@ -31,7 +31,7 @@ ul li ul{
 ul {
     margin-left: 20px;
 }
-@media screen and (max-width: 2500px){
+@media screen and (max-width: 2300px){
     .about-container{
         display: flex;
         flex-direction: column;
@@ -45,7 +45,4 @@ ul {
     .mission-img{
         display: none;
     }
-}
-@media screen and (max-width: 1350px){
-    
 }
