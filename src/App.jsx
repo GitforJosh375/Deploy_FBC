@@ -9,8 +9,8 @@ import Prayer from "./routes/prayer.jsx";
 export default function App() {
   return (
     <div className="App">
-      <Routes>
-        <Route path="/" element={<Home/>}/>
+      <Routes basename="/home">
+        <Route path="/home" element={<Home/>}/>
         <Route path="/about" element={<About/>}/>
         <Route path="/event" element={<Event/>}/>
         <Route path="/contact" element={<Contact/>}/>
