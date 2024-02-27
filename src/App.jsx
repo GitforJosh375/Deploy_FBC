@@ -9,12 +9,12 @@ import Prayer from "./routes/prayer.jsx";
 export default function App() {
   return (
     <div className="App">
-      <Routes basename="/Deploy_FBC">
-        <Route path="/" element={<Home/>}/>
-        <Route path="/about" element={<About/>}/>
-        <Route path="/event" element={<Event/>}/>
-        <Route path="/contact" element={<Contact/>}/>
-        <Route path="/prayer" element={<Prayer/>}/>
+      <Routes>
+        <Route basename="/" path="/" element={<Home/>}/>
+        <Route basename="/about" path="/about" element={<About/>}/>
+        <Route basename="/event" path="/event" element={<Event/>}/>
+        <Route basename="/contact" path="/contact" element={<Contact/>}/>
+        <Route basename="/prayer" path="/prayer" element={<Prayer/>}/>
       </Routes>
     </div>
   );
