@@ -16,7 +16,9 @@
 }
 
 .mission-text{
+    margin-top: 30px;
     width: 60%;
+    margin-bottom: 30px;
 }
 
 .mission-img{
@@ -43,11 +45,16 @@ ul {
         justify-content: space-between;
         align-items: center;
         font-size: 1.25rem;
-        margin: 1rem 1rem;
+        margin: 0;
         text-align: start;
+        
+    }
+    .mission-text {
+        width: 92%; /* Adjust the width to allow the text to fill the container */
     }
 
     .mission-img{
         display: none;
+        margin: 0;
     }
 }
