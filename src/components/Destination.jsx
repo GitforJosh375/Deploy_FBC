@@ -12,13 +12,7 @@ const Destination = () => {
     return(
         <div className="destination">
             <h1>Featured Events</h1>
-            <p></p>
-            <DestinationData
-            className="first-des-reverse"
-            heading="March 3: Movie Night @6pm"
-            text="'Patterns of Evidence' is a compelling documentary series that explores the historical and archaeological evidence surrounding key events and figures in the Bible. Through meticulous research, expert interviews, and on-site investigations, the series delves into questions surrounding the authenticity and accuracy of biblical accounts, seeking to uncover tangible proof of their validity. With a balanced approach that examines both skeptics' viewpoints and believers' perspectives, 'Patterns of Evidence' invites viewers on a thought-provoking journey to unravel the mysteries of the ancient world and discover the profound connections between archaeological findings and biblical narratives. Whether examining the Exodus, the existence of Moses, or the conquest of Canaan, each installment of 'Patterns of Evidence' offers a captivating blend of scholarship, exploration, and faith, inviting audiences to reconsider their understanding of history and the Bible."
-            img1={SundayImg4}
-            />
+            <p></p> 
             <DestinationData
             className="first-des"
             heading="April 20: Denim and Diamonds @10:30am"
