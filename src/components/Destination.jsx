@@ -4,6 +4,7 @@ import SundayImg2 from "../assets/childrenChurch.jpg";
 import SundayImg3 from "../assets/BibleStudy.jpg";
 import SundayImg4 from "../assets/PatternsMovie.jpg";
 import SundayImg5 from "../assets/MarkCal.jpg";
+import Movie from "../assets/Break.jpg";
 import DestinationData from "./DestinationData.jsx";
 import "./DestinationStyles.css"
 
@@ -18,6 +19,12 @@ const Destination = () => {
             heading="April 20: Denim and Diamonds @10:30am"
             text="Ladies Function and Luncheon"
             img1={SundayImg5}
+            />
+            <DestinationData
+            className="first-des-reverse"
+            heading="April 28: Movie Night - Break Every Chain"
+            text="A true account of how God forever changed the life of a police officer who was battling alcoholism, depression, and devastating loss."
+            img1={Movie}
             />
 
 
