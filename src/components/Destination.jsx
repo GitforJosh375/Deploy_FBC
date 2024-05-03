@@ -14,6 +14,7 @@ const Destination = () => {
         <div className="destination">
             <h1>Featured Events</h1>
             <p></p> 
+            {/*
             <DestinationData
             className="first-des"
             heading="April 20: Denim and Diamonds @10:30am"
@@ -26,6 +27,9 @@ const Destination = () => {
             text="A true account of how God forever changed the life of a police officer who was battling alcoholism, depression, and devastating loss."
             img1={Movie}
             />
+            */}
+            
+            
 
 
             <br></br>
