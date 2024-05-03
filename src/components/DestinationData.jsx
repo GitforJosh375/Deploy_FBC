@@ -6,7 +6,7 @@ import { Component } from "react";
 
 import "./DestinationStyles.css";
 
-class DestinationData2 extends Component {
+class DestinationData extends Component {
     render(){
         return (
             <div className={this.props.className}> 
@@ -22,4 +22,4 @@ class DestinationData2 extends Component {
     }
 }
 
-export default DestinationData2;
+export default DestinationData;
