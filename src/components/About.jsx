@@ -38,15 +38,9 @@ function AboutUs () {
                         <li>Ashley Umfleet</li>
                     </ul>
                 </li>
-                <li><strong>Administrative Director:</strong> 
+                <li><strong>Administrative Assistant:</strong> 
                     <ul>
                         <li>Chrissy Medlock</li>
-                    </ul>
-                </li>
-                <li><strong>Custodial Staff</strong>
-                    <ul>
-                        <li>Marias Nel</li>
-                        <li>Dalene Nel</li>
                     </ul>
                 </li>
                 <li><strong>Chairman of Deacons:</strong> 

@@ -7,6 +7,7 @@ const Footer = () =>{
                 <div>
                     <h1>FBC Licking</h1>
                     <p>Got Jesus?</p>
+                    <p>© 2024</p>
                 </div>
                 <div>
                     <a href="https://www.facebook.com/profile.php?id=100069495064670">

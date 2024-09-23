@@ -12,8 +12,8 @@ import "./DestinationStyles.css"
 const Destination = () => {
     return(
         <div className="destination">
-            <h1>Featured Events</h1>
-            <p></p> 
+            {/*<h1>Featured Events</h1>
+            <p></p> */}
             {/*
             <DestinationData
             className="first-des"
