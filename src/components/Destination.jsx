@@ -6,21 +6,23 @@ import SundayImg4 from "../assets/PatternsMovie.jpg";
 import SundayImg5 from "../assets/MarkCal.jpg";
 import Movie from "../assets/Break.jpg";
 import DestinationData from "./DestinationData.jsx";
+import OctoberImg from "../assets/October_festival.jpg"
 import "./DestinationStyles.css"
 
 
 const Destination = () => {
     return(
         <div className="destination">
-            {/*<h1>Featured Events</h1>
-            <p></p> */}
-            {/*
+            <h1>Featured Events</h1>
+            <p></p> 
+            
             <DestinationData
             className="first-des"
-            heading="April 20: Denim and Diamonds @10:30am"
-            text="Ladies Function and Luncheon"
-            img1={SundayImg5}
+            heading="October 12: Community Fall Festival"
+            text="Bring Your Family And Friends <br />Free Food <br />Train Rides <br />Face Painting <br />Inflatable Slide <br />Fall Games & Activities "
+            img1={OctoberImg}
             />
+            {/*
             <DestinationData
             className="first-des-reverse"
             heading="April 28: Movie Night - Break Every Chain"
