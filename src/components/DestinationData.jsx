@@ -12,7 +12,7 @@ class DestinationData extends Component {
             <div className={this.props.className}> 
                 <div className ="des-text">
                     <h2>{this.props.heading}</h2>
-                    <p>{this.props.text}</p>
+                    <p dangerouslySetInnerHTML={{ __html: this.props.text }} />
                 </div>
                 <div className="image">
                     <img alt="img" src={this.props.img1}/>
