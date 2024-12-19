@@ -13,15 +13,18 @@ import "./DestinationStyles.css"
 const Destination = () => {
     return(
         <div className="destination">
+            {/*
             <h1>Featured Events</h1>
             <p></p> 
             
+
             <DestinationData
             className="first-des"
             heading="October 12: Community Fall Festival"
             text="Bring Your Family And Friends <br />Free Food <br />Train Rides <br />Face Painting <br />Inflatable Slide <br />Fall Games & Activities "
             img1={OctoberImg}
             />
+            */}
             {/*
             <DestinationData
             className="first-des-reverse"
@@ -34,9 +37,9 @@ const Destination = () => {
             
 
 
+            {/*<br></br>
             <br></br>
-            <br></br>
-            <br></br>
+            <br></br>*/}
             <h1>Sunday Events</h1>
             <p></p>
             
